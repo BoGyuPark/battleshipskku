@@ -4,6 +4,8 @@
 
 #include <iostream>
 #include "game.h"
+#include "ship.h"
 int main() {
-	std::cout << "test" << std::endl;
+	Carrier one;
+	std::cout << one.putSize() << std::endl;
 }
