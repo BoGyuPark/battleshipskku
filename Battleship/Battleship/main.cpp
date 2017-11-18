@@ -7,3 +7,8 @@
 //int main() {
 //	std::cout << "test" << std::endl;
 //}
+#include <iostream>
+int main() {
+	std::cout << "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW";
+	return 0;
+}
